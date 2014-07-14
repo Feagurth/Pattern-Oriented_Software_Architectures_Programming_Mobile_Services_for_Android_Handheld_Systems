@@ -1,0 +1,10 @@
+*.dat
+*.index
+*.tree
+*.location
+*.version
+*.snap
+*.resources
+*.prefs
+*.launch
+*.cache
