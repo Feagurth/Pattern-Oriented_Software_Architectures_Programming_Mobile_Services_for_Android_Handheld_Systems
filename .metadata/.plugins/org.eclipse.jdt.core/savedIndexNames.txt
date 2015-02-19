@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\Users\Super\Documents\GitHub\Pattern-Oriented_Software_Architectures_Programming_Mobile_Services_for_Android_Handheld_Systems\.metadata\.plugins\org.eclipse.jdt.core
